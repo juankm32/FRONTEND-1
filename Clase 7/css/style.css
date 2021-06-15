@@ -1,0 +1,82 @@
+
+
+
+body{
+  font-family: Times New Roman;
+
+}
+a{
+  margin-left:20px ;
+}
+
+footer{
+  width: 1440px;
+  height: 37px;
+  color: #FFFFFF;
+  background:#005677;
+}
+h1{
+  width: 1440px;
+  height: 60px;
+  margin-top: 15px;
+  margin-block-start: 14px;
+  font-size: 35px;
+  text-align: center;
+  line-height: 29,64px;
+  color:#005677;
+  background: #C4C4C4;
+}
+h2{
+  width: 1041px;
+  height: 30px;
+  font-size: 20px;
+  font-style: normal;
+  margin-left: 255px;
+  background: #C4C4C4;
+  color: #005677;
+}
+li{
+  margin-top: 10px;
+}
+
+p{
+  margin-left: 601px;
+  margin-top: 11px;
+  margin-bottom: 9px;
+  font-weight: 700;
+  font-style: normal;
+
+  margin-bottom: 0;
+
+  display: inline-block;
+  font-size: 20px;
+}
+
+span{
+  margin-left: 80px;
+}
+ul{
+  margin-left: 255px;
+}
+
+.formacion, .experiencia{
+  list-style: none;
+}
+.linke{
+  margin-left: 20px;
+}
+
+
+
+.negrita{
+  font-weight: bold;
+  margin-left:0 ;
+}
+.perfil{
+  position: relative;
+  width: 100px;
+  height:147px;
+  left: 670px;
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
